@@ -1,0 +1,2 @@
+﻿
+C:\Users\muhammad.w.asghar\source\repos\AzureResourceGroup1\Deploy-AzureResourceGroup.ps1 -TemplateFile C:\Users\muhammad.w.asghar\source\repos\AzureResourceGroup1\azuredeploy.json -TemplateParametersFile C:\Users\muhammad.w.asghar\source\repos\AzureResourceGroup1\azuredeploy.parameters.json -UploadArtifacts
